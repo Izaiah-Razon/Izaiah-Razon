@@ -2,5 +2,5 @@
 - I'm currently studying Computer Engineering.
 - I chose my major because I enjoy problem-solving and building things.
 - A fun fact about me is: I volunteer at robotics competitions.
-- What do I want to learn from EE 205? I want to strengthen my understanding of circuit analysis.
+- What do I want to learn from EE 205? I want to learn how to design programs using classes.
 - A book or movie I'd recommend is: Atomic Habits by James Clear.
